@@ -172,7 +172,7 @@ export default function Hero({ theme }: HeroProps) {
             }`}
             onClick={() => {
               window.open(
-                "https://github.com/megh-bari/pattern-craft#contributing",
+                "https://github.com/samir7888/ButtonCraft",
                 "_blank"
               );
             }}

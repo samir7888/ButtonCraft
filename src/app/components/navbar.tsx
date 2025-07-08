@@ -40,7 +40,7 @@ export default function Navbar({ theme }: NavbarProps) {
               />
             </a>
             <a
-              href="https://github.com/megh-bari"
+              href="https://github.com/samir7888"
               target="_blank"
               rel="noopener noreferrer"
               className={`rounded-full p-1.5 sm:p-2 transition-all duration-300 ${
