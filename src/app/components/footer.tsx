@@ -33,7 +33,7 @@ export default function Footer({ theme }: FooterProps) {
               isPatternDark ? "text-white" : ""
             }`}
           >
-            Crafting beautiful Buttons
+            Crafting beautiful Buttons, Inspired from patterncraft
           </p>
         </div>
       </div>
