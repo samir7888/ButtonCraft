@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://buttoncraft.vercel.app/"),
-  title: "PatternCraft - Modern Buttons Patterns",
+  title: "ButtonCraft - Modern Buttons Patterns",
   description:
     "Professional-grade buttons patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.",
   keywords: [
