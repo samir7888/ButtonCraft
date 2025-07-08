@@ -71,7 +71,7 @@ export const metadata: Metadata = {
 
   authors: [{ name: "Sameer Basnet ", url: "https://github.com/samir7888" }],
   creator: "Sameer Basnet ",
-  publisher: "PatternCraft",
+  publisher: "ButtonCraft",
 
   robots: {
     index: true,
@@ -88,7 +88,7 @@ export const metadata: Metadata = {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "PatternCraft - Modern Buttons Patterns & Gradients",
+    title: "ButtonCraft - Modern Buttons Patterns & Gradients",
     description:
       "Explore a collection of handcrafted buttons patterns and gradients for modern websites. Easy to use and customize.",
     url: "https://buttoncraft.vercel.app/",
@@ -99,13 +99,13 @@ export const metadata: Metadata = {
         url: "/banner.png",
         width: 1200,
         height: 630,
-        alt: "PatternCraft – Modern Buttons Patterns and Gradients",
+        alt: "ButtonCraft – Modern Buttons Patterns and Gradients",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PatternCraft - Modern Buttons Patterns & Gradients",
+    title: "ButtonCraft - Modern Buttons Patterns & Gradients",
     description:
       "A curated set of ready-to-use buttons patterns and gradients. Crafted with Tailwind CSS and modern techniques.",
     images: ["/banner.png"],
@@ -120,11 +120,11 @@ export const metadata: Metadata = {
 
   // Schema.org structured data hints
   other: {
-    "application-name": "PatternCraft",
+    "application-name": "ButtonCraft",
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "default",
-    "apple-mobile-web-app-title": "PatternCraft",
+    "apple-mobile-web-app-title": "ButtonCraft",
     "msapplication-TileColor": "#000000",
     "theme-color": "#000000",
 
