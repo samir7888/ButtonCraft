@@ -57,9 +57,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #14b8a6 100%)
     `,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #14b8a6 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #14b8a6 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "radial-pink-glow",
@@ -71,9 +71,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #ec4899 100%)
     `,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #ec4899 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #ec4899 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "radial-amber-glow",
@@ -85,9 +85,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #f59e0b 100%)
     `,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #f59e0b 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #f59e0b 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "radial-emerald-glow",
@@ -99,9 +99,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #10b981 100%)
     `,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #10b981 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #ffffff 40%, #10b981 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   // dark one
   {
@@ -114,9 +114,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
      radial-gradient(125% 125% at 50% 90%, #000000 40%, #0d1a36 100%)
     `,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #0d1a36 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #0d1a36 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "crimson-depth",
@@ -126,9 +126,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `radial-gradient(125% 125% at 50% 100%, #000000 40%, #2b0707 100%)`,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #2b0707 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #2b0707 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "emerald-void",
@@ -138,9 +138,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `radial-gradient(125% 125% at 50% 90%, #000000 40%, #072607 100%)`,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #072607 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #072607 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "violet-abyss",
@@ -150,9 +150,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `radial-gradient(125% 125% at 50% 90%, #000000 40%, #2b092b 100%)`,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #2b092b 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 90%, #000000 40%, #2b092b 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "azure-depths",
@@ -162,9 +162,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%)`,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #010133 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   {
     id: "orchid -depths",
@@ -174,9 +174,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `radial-gradient(125% 125% at 50% 100%, #000000 40%, #350136 100%)`,
-      backgroundSize: "100% 100%",
+      backgroundSize: "200% 200%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #350136 100%)', backgroundSize: "100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(125% 125% at 50% 100%, #000000 40%, #350136 100%)', backgroundSize: "200% 200%" }}>Button</button>`,
   },
   //top
   {
@@ -255,11 +255,11 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, #f0f0f0 1px, transparent 1px),
       linear-gradient(to bottom, #f0f0f0 1px, transparent 1px),
-      radial-gradient(circle 800px at 100% 200px, #d5c5ff, transparent)
+      radial-gradient(circle 400px at 100% 100px, #d5c5ff, transparent)
     `,
-      backgroundSize: "96px 64px, 96px 64px, 100% 100%",
+      backgroundSize: "48px 32px, 48px 32px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, #f0f0f0 1px, transparent 1px), linear-gradient(to bottom, #f0f0f0 1px, transparent 1px), radial-gradient(circle 800px at 100% 200px, #d5c5ff, transparent)', backgroundSize: "96px 64px, 96px 64px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, #f0f0f0 1px, transparent 1px), linear-gradient(to bottom, #f0f0f0 1px, transparent 1px), radial-gradient(circle 400px at 100% 100px, #d5c5ff, transparent)', backgroundSize: "48px 32px, 48px 32px, 100% 100%" }}>Button</button>`,
   },
 
   {
@@ -272,11 +272,11 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, #f0f0f0 1px, transparent 1px),
       linear-gradient(to bottom, #f0f0f0 1px, transparent 1px),
-      radial-gradient(circle 800px at 0% 200px, #d5c5ff, transparent)
+      radial-gradient(circle 400px at 0% 100px, #d5c5ff, transparent)
     `,
-      backgroundSize: "96px 64px, 96px 64px, 100% 100%",
+      backgroundSize: "48px 32px, 48px 32px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, #f0f0f0 1px, transparent 1px), linear-gradient(to bottom, #f0f0f0 1px, transparent 1px), radial-gradient(circle 800px at 0% 200px, #d5c5ff, transparent)', backgroundSize: "96px 64px, 96px 64px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, #f0f0f0 1px, transparent 1px), linear-gradient(to bottom, #f0f0f0 1px, transparent 1px), radial-gradient(circle 400px at 0% 100px, #d5c5ff, transparent)', backgroundSize: "48px 32px, 48px 32px, 100% 100%" }}>Button</button>`,
   },
   {
     id: "dual-gradient-overlay-strong",
@@ -288,12 +288,12 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px),
-      radial-gradient(circle 500px at 20% 80%, rgba(139,92,246,0.3), transparent),
-      radial-gradient(circle 500px at 80% 20%, rgba(59,130,246,0.3), transparent)
+      radial-gradient(circle 250px at 20% 80%, rgba(139,92,246,0.3), transparent),
+      radial-gradient(circle 250px at 80% 20%, rgba(59,130,246,0.3), transparent)
     `,
-      backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%",
+      backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 500px at 20% 80%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 500px at 80% 20%, rgba(59,130,246,0.3), transparent)', backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 250px at 20% 80%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 250px at 80% 20%, rgba(59,130,246,0.3), transparent)', backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%" }}>Button</button>`,
   },
   {
     id: "dual-gradient-overlay-strong-swapped",
@@ -305,12 +305,12 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px),
-      radial-gradient(circle 500px at 20% 20%, rgba(139,92,246,0.3), transparent),
-      radial-gradient(circle 500px at 80% 80%, rgba(59,130,246,0.3), transparent)
+      radial-gradient(circle 250px at 20% 20%, rgba(139,92,246,0.3), transparent),
+      radial-gradient(circle 250px at 80% 80%, rgba(59,130,246,0.3), transparent)
     `,
-      backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%",
+      backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 500px at 20% 20%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 500px at 80% 80%, rgba(59,130,246,0.3), transparent)', backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 250px at 20% 20%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 250px at 80% 80%, rgba(59,130,246,0.3), transparent)', backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%" }}>Button</button>`,
   },
   {
     id: "dual-gradient-overlay-top",
@@ -322,12 +322,12 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px),
-      radial-gradient(circle 500px at 0% 20%, rgba(139,92,246,0.3), transparent),
-      radial-gradient(circle 500px at 100% 0%, rgba(59,130,246,0.3), transparent)
+      radial-gradient(circle 250px at 0% 20%, rgba(139,92,246,0.3), transparent),
+      radial-gradient(circle 250px at 100% 0%, rgba(59,130,246,0.3), transparent)
     `,
-      backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%",
+      backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 500px at 0% 20%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 500px at 100% 0%, rgba(59,130,246,0.3), transparent)', backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 250px at 0% 20%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 250px at 100% 0%, rgba(59,130,246,0.3), transparent)', backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%" }}>Button</button>`,
   },
   {
     id: "dual-gradient-overlay-bottom",
@@ -339,12 +339,12 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px),
-      radial-gradient(circle 500px at 20% 100%, rgba(139,92,246,0.3), transparent),
-      radial-gradient(circle 500px at 100% 80%, rgba(59,130,246,0.3), transparent)
+      radial-gradient(circle 250px at 20% 100%, rgba(139,92,246,0.3), transparent),
+      radial-gradient(circle 250px at 100% 80%, rgba(59,130,246,0.3), transparent)
     `,
-      backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%",
+      backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 500px at 20% 100%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 500px at 100% 80%, rgba(59,130,246,0.3), transparent)', backgroundSize: "48px 48px, 48px 48px, 100% 100%, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(229,231,235,0.8) 1px, transparent 1px), linear-gradient(to bottom, rgba(229,231,235,0.8) 1px, transparent 1px), radial-gradient(circle 250px at 20% 100%, rgba(139,92,246,0.3), transparent), radial-gradient(circle 250px at 100% 80%, rgba(59,130,246,0.3), transparent)', backgroundSize: "24px 24px, 24px 24px, 100% 100%, 100% 100%" }}>Button</button>`,
   },
   {
     id: "top-fade-grid",
@@ -356,13 +356,13 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, #e2e8f0 1px, transparent 1px),
       linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)
     `,
-      backgroundSize: "20px 30px",
+      backgroundSize: "10px 15px",
       WebkitMaskImage:
         "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)",
       maskImage:
         "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(to right, #e2e8f0 1px, transparent 1px), linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)', backgroundSize: "20px 30px", WebkitMaskImage: "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)", maskImage: "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(to right, #e2e8f0 1px, transparent 1px), linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)', backgroundSize: "10px 15px", WebkitMaskImage: "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)", maskImage: "radial-gradient(ellipse 70% 60% at 50% 0%, #000 60%, transparent 100%)" }}>Button</button>`,
   },
   {
     id: "bottom-fade-grid",
@@ -375,13 +375,13 @@ export const gridPatterns: Pattern[] = [
         linear-gradient(to right, #e2e8f0 1px, transparent 1px),
         linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)
       `,
-      backgroundSize: "20px 30px",
+      backgroundSize: "10px 15px",
       WebkitMaskImage:
         "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)",
       maskImage:
         "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(to right, #e2e8f0 1px, transparent 1px), linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)', backgroundSize: "20px 30px", WebkitMaskImage: "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)", maskImage: "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(to right, #e2e8f0 1px, transparent 1px), linear-gradient(to bottom, #e2e8f0 1px, transparent 1px)', backgroundSize: "10px 15px", WebkitMaskImage: "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)", maskImage: "radial-gradient(ellipse 70% 60% at 50% 100%, #000 60%, transparent 100%)" }}>Button</button>`,
   },
   {
     id: "diagonal-fade-grid-left",
@@ -394,13 +394,13 @@ export const gridPatterns: Pattern[] = [
         linear-gradient(to right, #d1d5db 1px, transparent 1px),
         linear-gradient(to bottom, #d1d5db 1px, transparent 1px)
       `,
-      backgroundSize: "32px 32px",
+      backgroundSize: "16px 16px",
       WebkitMaskImage:
         "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)",
       maskImage:
         "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f9fafb", backgroundImage: 'linear-gradient(to right, #d1d5db 1px, transparent 1px), linear-gradient(to bottom, #d1d5db 1px, transparent 1px)', backgroundSize: "32px 32px", WebkitMaskImage: "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)", maskImage: "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f9fafb", backgroundImage: 'linear-gradient(to right, #d1d5db 1px, transparent 1px), linear-gradient(to bottom, #d1d5db 1px, transparent 1px)', backgroundSize: "16px 16px", WebkitMaskImage: "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)", maskImage: "radial-gradient(ellipse 80% 80% at 0% 0%, #000 50%, transparent 90%)" }}>Button</button>`,
   },
   {
     id: "diagonal-fade-grid-right",
@@ -413,13 +413,13 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, #d1d5db 1px, transparent 1px),
       linear-gradient(to bottom, #d1d5db 1px, transparent 1px)
     `,
-      backgroundSize: "32px 32px",
+      backgroundSize: "16px 16px",
       WebkitMaskImage:
         "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)",
       maskImage:
         "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f9fafb", backgroundImage: 'linear-gradient(to right, #d1d5db 1px, transparent 1px), linear-gradient(to bottom, #d1d5db 1px, transparent 1px)', backgroundSize: "32px 32px", WebkitMaskImage: "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)", maskImage: "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f9fafb", backgroundImage: 'linear-gradient(to right, #d1d5db 1px, transparent 1px), linear-gradient(to bottom, #d1d5db 1px, transparent 1px)', backgroundSize: "16px 16px", WebkitMaskImage: "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)", maskImage: "radial-gradient(ellipse 80% 80% at 100% 0%, #000 50%, transparent 90%)" }}>Button</button>`,
   },
 
   // NEW GRADIENT COLORSF
@@ -430,9 +430,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#020617",
       backgroundImage:
-        "radial-gradient(circle 500px at 50% 200px, #3e3e3e, transparent)",
+        "radial-gradient(circle 250px at 50% 100px, #3e3e3e, transparent)",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 500px at 50% 200px, #3e3e3e, transparent)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 250px at 50% 100px, #3e3e3e, transparent)" }}>Button</button>`,
   },
 
   {
@@ -442,9 +442,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f172a",
       backgroundImage:
-        "radial-gradient(circle 600px at 50% 50%, rgba(59,130,246,0.3), transparent)",
+        "radial-gradient(circle 300px at 50% 50%, rgba(59,130,246,0.3), transparent)",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: "radial-gradient(circle 600px at 50% 50%, rgba(59,130,246,0.3), transparent)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: "radial-gradient(circle 300px at 50% 50%, rgba(59,130,246,0.3), transparent)" }}>Button</button>`,
   },
 
   {
@@ -455,9 +455,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#020617",
       backgroundImage:
-        "radial-gradient(circle 500px at 50% 100px, rgba(139,92,246,0.4), transparent)",
+        "radial-gradient(circle 250px at 50% 50px, rgba(139,92,246,0.4), transparent)",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 500px at 50% 100px, rgba(139,92,246,0.4), transparent)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 250px at 50% 50px, rgba(139,92,246,0.4), transparent)" }}>Button</button>`,
   },
 
   {
@@ -468,9 +468,9 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#020617",
       backgroundImage:
-        "radial-gradient(circle 500px at 50% 300px, rgba(16,185,129,0.35), transparent)",
+        "radial-gradient(circle 250px at 50% 150px, rgba(16,185,129,0.35), transparent)",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 500px at 50% 300px, rgba(16,185,129,0.35), transparent)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: "radial-gradient(circle 250px at 50% 150px, rgba(16,185,129,0.35), transparent)" }}>Button</button>`,
   },
 
   // Warm Backgrounds
@@ -602,10 +602,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
 
   {
@@ -622,10 +622,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "warm-orange-glow-bg",
@@ -641,10 +641,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "cool-blue-glow-bg",
@@ -660,10 +660,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top right, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   // glow left
   {
@@ -680,10 +680,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "teal-glow-bg-left",
@@ -699,10 +699,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "warm-orange-glow-bg-left",
@@ -718,10 +718,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "cool-blue-glow-bg-left",
@@ -737,10 +737,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top left, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
 
   // glow top
@@ -758,10 +758,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(173, 109, 244, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "teal-glow-bg-top",
@@ -777,10 +777,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(56, 193, 182, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "warm-orange-glow-bg-top",
@@ -796,10 +796,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(255, 140, 60, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
   {
     id: "cool-blue-glow-bg-top",
@@ -815,10 +815,10 @@ export const gridPatterns: Pattern[] = [
         transparent 70%
       )
     `,
-      filter: "blur(80px)",
+      filter: "blur(40px)",
       backgroundRepeat: "no-repeat",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(80px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at top center, rgba(70, 130, 180, 0.5), transparent 70%)', filter: "blur(40px)", backgroundRepeat: "no-repeat" }}>Button</button>`,
   },
 
   // PATTERNS
@@ -835,9 +835,9 @@ export const gridPatterns: Pattern[] = [
         repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px),
         repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px)
       `,
-      backgroundSize: "8px 8px, 32px 32px, 32px 32px",
+      backgroundSize: "4px 4px, 16px 16px, 16px 16px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#faf9f6", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(0,0,0,0.08) 1px, transparent 0), repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px), repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px)', backgroundSize: "8px 8px, 32px 32px, 32px 32px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#faf9f6", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(0,0,0,0.08) 1px, transparent 0), repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px), repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(0,0,0,0.02) 2px, rgba(0,0,0,0.02) 4px)', backgroundSize: "4px 4px, 16px 16px, 16px 16px" }}>Button</button>`,
   },
   {
     id: "diagonal-lines",
@@ -846,9 +846,9 @@ export const gridPatterns: Pattern[] = [
     badge: "New",
     style: {
       backgroundImage:
-        "repeating-linear-gradient(45deg, transparent, transparent 2px, #f3f4f6 2px, #f3f4f6 4px)",
+        "repeating-linear-gradient(45deg, transparent, transparent 1px, #f3f4f6 1px, #f3f4f6 2px)",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ backgroundImage: "repeating-linear-gradient(45deg, transparent, transparent 2px, #f3f4f6 2px, #f3f4f6 4px)" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ backgroundImage: "repeating-linear-gradient(45deg, transparent, transparent 1px, #f3f4f6 1px, #f3f4f6 2px)" }}>Button</button>`,
   },
   {
     id: "diagonal-light",
@@ -858,12 +858,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#fafafa",
       backgroundImage: `
-       repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 20px),
-        repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 20px)
+       repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 10px),
+        repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 10px)
       `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#fafafa", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 20px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#fafafa", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.1) 1px, transparent 1px, transparent 10px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "diagonal-light-green",
@@ -873,12 +873,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#fafafa",
       backgroundImage: `
-       repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 20px),
-        repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 20px)
+       repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 10px),
+        repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 10px)
       `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#fafafa", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 20px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#fafafa", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.1) 0, rgba(255, 0, 100, 0.1) 1px, transparent 1px, transparent 10px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "zigzag-lightning-light",
@@ -888,13 +888,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#ffffff",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px),
-      repeating-linear-gradient(90deg, transparent, transparent 30px, rgba(107, 114, 128, 0.06) 30px, rgba(107, 114, 128, 0.06) 31px),
-      repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(55, 65, 81, 0.05) 40px, rgba(55, 65, 81, 0.05) 41px),
-      repeating-linear-gradient(150deg, transparent, transparent 35px, rgba(31, 41, 55, 0.04) 35px, rgba(31, 41, 55, 0.04) 36px)
+      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px),
+      repeating-linear-gradient(90deg, transparent, transparent 15px, rgba(107, 114, 128, 0.06) 15px, rgba(107, 114, 128, 0.06) 16px),
+      repeating-linear-gradient(60deg, transparent, transparent 20px, rgba(55, 65, 81, 0.05) 20px, rgba(55, 65, 81, 0.05) 21px),
+      repeating-linear-gradient(150deg, transparent, transparent 18px, rgba(31, 41, 55, 0.04) 18px, rgba(31, 41, 55, 0.04) 19px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px), repeating-linear-gradient(90deg, transparent, transparent 30px, rgba(107, 114, 128, 0.06) 30px, rgba(107, 114, 128, 0.06) 31px), repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(55, 65, 81, 0.05) 40px, rgba(55, 65, 81, 0.05) 41px), repeating-linear-gradient(150deg, transparent, transparent 35px, rgba(31, 41, 55, 0.04) 35px, rgba(31, 41, 55, 0.04) 36px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px), repeating-linear-gradient(90deg, transparent, transparent 15px, rgba(107, 114, 128, 0.06) 15px, rgba(107, 114, 128, 0.06) 16px), repeating-linear-gradient(60deg, transparent, transparent 20px, rgba(55, 65, 81, 0.05) 20px, rgba(55, 65, 81, 0.05) 21px), repeating-linear-gradient(150deg, transparent, transparent 18px, rgba(31, 41, 55, 0.04) 18px, rgba(31, 41, 55, 0.04) 19px)' }}>Button</button>`,
   },
   {
     id: "circuit-board-light",
@@ -904,14 +904,14 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#ffffff",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(75, 85, 99, 0.08) 19px, rgba(75, 85, 99, 0.08) 20px, transparent 20px, transparent 39px, rgba(75, 85, 99, 0.08) 39px, rgba(75, 85, 99, 0.08) 40px),
-      repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(75, 85, 99, 0.08) 19px, rgba(75, 85, 99, 0.08) 20px, transparent 20px, transparent 39px, rgba(75, 85, 99, 0.08) 39px, rgba(75, 85, 99, 0.08) 40px),
-      radial-gradient(circle at 20px 20px, rgba(55, 65, 81, 0.12) 2px, transparent 2px),
-      radial-gradient(circle at 40px 40px, rgba(55, 65, 81, 0.12) 2px, transparent 2px)
+      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px, transparent 11px, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px),
+      repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px, transparent 11px, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px),
+      radial-gradient(circle at 10px 10px, rgba(55, 65, 81, 0.12) 1px, transparent 1px),
+      radial-gradient(circle at 20px 20px, rgba(55, 65, 81, 0.12) 1px, transparent 1px)
     `,
-      backgroundSize: "40px 40px, 40px 40px, 40px 40px, 40px 40px",
+      backgroundSize: "20px 20px, 20px 20px, 20px 20px, 20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(75, 85, 99, 0.08) 19px, rgba(75, 85, 99, 0.08) 20px, transparent 20px, transparent 39px, rgba(75, 85, 99, 0.08) 39px, rgba(75, 85, 99, 0.08) 40px), repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(75, 85, 99, 0.08) 19px, rgba(75, 85, 99, 0.08) 20px, transparent 20px, transparent 39px, rgba(75, 85, 99, 0.08) 39px, rgba(75, 85, 99, 0.08) 40px), radial-gradient(circle at 20px 20px, rgba(55, 65, 81, 0.12) 2px, transparent 2px), radial-gradient(circle at 40px 40px, rgba(55, 65, 81, 0.12) 2px, transparent 2px)', backgroundSize: "40px 40px, 40px 40px, 40px 40px, 40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px, transparent 11px, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px), repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(75, 85, 99, 0.08) 10px, rgba(75, 85, 99, 0.08) 11px, transparent 11px, transparent 20px, rgba(75, 85, 99, 0.08) 20px, rgba(75, 85, 99, 0.08) 21px), radial-gradient(circle at 10px 10px, rgba(55, 65, 81, 0.12) 1px, transparent 1px), radial-gradient(circle at 20px 20px, rgba(55, 65, 81, 0.12) 1px, transparent 1px)', backgroundSize: "20px 20px, 20px 20px, 20px 20px, 20px 20px" }}>Button</button>`,
   },
   {
     id: "concentric-squares-light",
@@ -921,13 +921,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#ffffff",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(75, 85, 99, 0.06) 5px, rgba(75, 85, 99, 0.06) 6px, transparent 6px, transparent 15px),
-      repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(75, 85, 99, 0.06) 5px, rgba(75, 85, 99, 0.06) 6px, transparent 6px, transparent 15px),
-      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(107, 114, 128, 0.04) 10px, rgba(107, 114, 128, 0.04) 11px, transparent 11px, transparent 30px),
-      repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(107, 114, 128, 0.04) 10px, rgba(107, 114, 128, 0.04) 11px, transparent 11px, transparent 30px)
+      repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(75, 85, 99, 0.06) 3px, rgba(75, 85, 99, 0.06) 4px, transparent 4px, transparent 8px),
+      repeating-linear-gradient(90deg, transparent, transparent 3px, rgba(75, 85, 99, 0.06) 3px, rgba(75, 85, 99, 0.06) 4px, transparent 4px, transparent 8px),
+      repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(107, 114, 128, 0.04) 5px, rgba(107, 114, 128, 0.04) 6px, transparent 6px, transparent 15px),
+      repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(107, 114, 128, 0.04) 5px, rgba(107, 114, 128, 0.04) 6px, transparent 6px, transparent 15px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(75, 85, 99, 0.06) 5px, rgba(75, 85, 99, 0.06) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(75, 85, 99, 0.06) 5px, rgba(75, 85, 99, 0.06) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(107, 114, 128, 0.04) 10px, rgba(107, 114, 128, 0.04) 11px, transparent 11px, transparent 30px), repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(107, 114, 128, 0.04) 10px, rgba(107, 114, 128, 0.04) 11px, transparent 11px, transparent 30px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(75, 85, 99, 0.06) 3px, rgba(75, 85, 99, 0.06) 4px, transparent 4px, transparent 8px), repeating-linear-gradient(90deg, transparent, transparent 3px, rgba(75, 85, 99, 0.06) 3px, rgba(75, 85, 99, 0.06) 4px, transparent 4px, transparent 8px), repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(107, 114, 128, 0.04) 5px, rgba(107, 114, 128, 0.04) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(107, 114, 128, 0.04) 5px, rgba(107, 114, 128, 0.04) 6px, transparent 6px, transparent 15px)' }}>Button</button>`,
   },
   {
     id: "woven-fabric-light",
@@ -937,13 +937,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#ffffff",
       backgroundImage: `
-      repeating-linear-gradient(0deg, rgba(75, 85, 99, 0.08), rgba(75, 85, 99, 0.08) 2px, transparent 2px, transparent 6px),
-      repeating-linear-gradient(90deg, rgba(107, 114, 128, 0.06), rgba(107, 114, 128, 0.06) 2px, transparent 2px, transparent 6px),
-      repeating-linear-gradient(0deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 12px),
-      repeating-linear-gradient(90deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 12px)
+      repeating-linear-gradient(0deg, rgba(75, 85, 99, 0.08), rgba(75, 85, 99, 0.08) 1px, transparent 1px, transparent 3px),
+      repeating-linear-gradient(90deg, rgba(107, 114, 128, 0.06), rgba(107, 114, 128, 0.06) 1px, transparent 1px, transparent 3px),
+      repeating-linear-gradient(0deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 6px),
+      repeating-linear-gradient(90deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 6px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, rgba(75, 85, 99, 0.08), rgba(75, 85, 99, 0.08) 2px, transparent 2px, transparent 6px), repeating-linear-gradient(90deg, rgba(107, 114, 128, 0.06), rgba(107, 114, 128, 0.06) 2px, transparent 2px, transparent 6px), repeating-linear-gradient(0deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 12px), repeating-linear-gradient(90deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 12px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(0deg, rgba(75, 85, 99, 0.08), rgba(75, 85, 99, 0.08) 1px, transparent 1px, transparent 3px), repeating-linear-gradient(90deg, rgba(107, 114, 128, 0.06), rgba(107, 114, 128, 0.06) 1px, transparent 1px, transparent 3px), repeating-linear-gradient(0deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 6px), repeating-linear-gradient(90deg, rgba(55, 65, 81, 0.04), rgba(55, 65, 81, 0.04) 1px, transparent 1px, transparent 6px)' }}>Button</button>`,
   },
   {
     id: "crosshatch-art-light",
@@ -953,13 +953,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#ffffff",
       backgroundImage: `
-      repeating-linear-gradient(22.5deg, transparent, transparent 2px, rgba(75, 85, 99, 0.06) 2px, rgba(75, 85, 99, 0.06) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(67.5deg, transparent, transparent 2px, rgba(107, 114, 128, 0.05) 2px, rgba(107, 114, 128, 0.05) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(112.5deg, transparent, transparent 2px, rgba(55, 65, 81, 0.04) 2px, rgba(55, 65, 81, 0.04) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(157.5deg, transparent, transparent 2px, rgba(31, 41, 55, 0.03) 2px, rgba(31, 41, 55, 0.03) 3px, transparent 3px, transparent 8px)
+      repeating-linear-gradient(22.5deg, transparent, transparent 1px, rgba(75, 85, 99, 0.06) 1px, rgba(75, 85, 99, 0.06) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(67.5deg, transparent, transparent 1px, rgba(107, 114, 128, 0.05) 1px, rgba(107, 114, 128, 0.05) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(112.5deg, transparent, transparent 1px, rgba(55, 65, 81, 0.04) 1px, rgba(55, 65, 81, 0.04) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(157.5deg, transparent, transparent 1px, rgba(31, 41, 55, 0.03) 1px, rgba(31, 41, 55, 0.03) 2px, transparent 2px, transparent 4px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(22.5deg, transparent, transparent 2px, rgba(75, 85, 99, 0.06) 2px, rgba(75, 85, 99, 0.06) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(67.5deg, transparent, transparent 2px, rgba(107, 114, 128, 0.05) 2px, rgba(107, 114, 128, 0.05) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(112.5deg, transparent, transparent 2px, rgba(55, 65, 81, 0.04) 2px, rgba(55, 65, 81, 0.04) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(157.5deg, transparent, transparent 2px, rgba(31, 41, 55, 0.03) 2px, rgba(31, 41, 55, 0.03) 3px, transparent 3px, transparent 8px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'repeating-linear-gradient(22.5deg, transparent, transparent 1px, rgba(75, 85, 99, 0.06) 1px, rgba(75, 85, 99, 0.06) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(67.5deg, transparent, transparent 1px, rgba(107, 114, 128, 0.05) 1px, rgba(107, 114, 128, 0.05) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(112.5deg, transparent, transparent 1px, rgba(55, 65, 81, 0.04) 1px, rgba(55, 65, 81, 0.04) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(157.5deg, transparent, transparent 1px, rgba(31, 41, 55, 0.03) 1px, rgba(31, 41, 55, 0.03) 2px, transparent 2px, transparent 4px)' }}>Button</button>`,
   },
   {
     id: "white-grid-with-dots",
@@ -973,10 +973,10 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px),
       radial-gradient(circle, rgba(51,65,85,0.4) 1px, transparent 1px)
     `,
-      backgroundSize: "20px 20px, 20px 20px, 20px 20px",
+      backgroundSize: "10px 10px, 10px 10px, 10px 10px",
       backgroundPosition: "0 0, 0 0, 0 0",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(0,0,0,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(51,65,85,0.4) 1px, transparent 1px)', backgroundSize: "20px 20px, 20px 20px, 20px 20px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'linear-gradient(to right, rgba(0,0,0,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(51,65,85,0.4) 1px, transparent 1px)', backgroundSize: "10px 10px, 10px 10px, 10px 10px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
   },
 
   {
@@ -989,9 +989,9 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)
     `,
-      backgroundSize: "20px 20px",
+      backgroundSize: "10px 10px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)', backgroundSize: "20px 20px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#ffffff", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(0, 0, 0, 0.35) 1px, transparent 0)', backgroundSize: "10px 10px" }}>Button</button>`,
   },
   {
     id: "circuit-board",
@@ -1005,9 +1005,9 @@ export const gridPatterns: Pattern[] = [
         linear-gradient(90deg, #cbd5e1 1px, transparent 1px),
         linear-gradient(180deg, #cbd5e1 1px, transparent 1px)
       `,
-      backgroundSize: "50px 50px, 50px 50px, 10px 10px, 10px 10px",
+      backgroundSize: "25px 25px, 25px 25px, 5px 5px, 5px 5px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(90deg, #e2e8f0 1px, transparent 1px), linear-gradient(180deg, #e2e8f0 1px, transparent 1px), linear-gradient(90deg, #cbd5e1 1px, transparent 1px), linear-gradient(180deg, #cbd5e1 1px, transparent 1px)', backgroundSize: "50px 50px, 50px 50px, 10px 10px, 10px 10px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "#f8fafc", backgroundImage: 'linear-gradient(90deg, #e2e8f0 1px, transparent 1px), linear-gradient(180deg, #e2e8f0 1px, transparent 1px), linear-gradient(90deg, #cbd5e1 1px, transparent 1px), linear-gradient(180deg, #cbd5e1 1px, transparent 1px)', backgroundSize: "25px 25px, 25px 25px, 5px 5px, 5px 5px" }}>Button</button>`,
   },
   {
     id: "basic-grid",
@@ -1018,9 +1018,9 @@ export const gridPatterns: Pattern[] = [
         linear-gradient(to right, #e5e7eb 1px, transparent 1px),
         linear-gradient(to bottom, #e5e7eb 1px, transparent 1px)
       `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ backgroundImage: 'linear-gradient(to right, #e5e7eb 1px, transparent 1px), linear-gradient(to bottom, #e5e7eb 1px, transparent 1px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ backgroundImage: 'linear-gradient(to right, #e5e7eb 1px, transparent 1px), linear-gradient(to bottom, #e5e7eb 1px, transparent 1px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "white-sphere-grid",
@@ -1034,9 +1034,9 @@ export const gridPatterns: Pattern[] = [
      linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px),
      radial-gradient(circle at 50% 50%, rgba(139,92,246,0.25) 0%, rgba(139,92,246,0.1) 40%, transparent 80%)
    `,
-      backgroundSize: "32px 32px, 32px 32px, 100% 100%",
+      backgroundSize: "16px 16px, 16px 16px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "white", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.3) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px), radial-gradient(circle at 50% 50%, rgba(139,92,246,0.25) 0%, rgba(139,92,246,0.1) 40%, transparent 80%)', backgroundSize: "32px 32px, 32px 32px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "white", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.3) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px), radial-gradient(circle at 50% 50%, rgba(139,92,246,0.25) 0%, rgba(139,92,246,0.1) 40%, transparent 80%)', backgroundSize: "16px 16px, 16px 16px, 100% 100%" }}>Button</button>`,
   },
   {
     id: "magenta-orb-grid-light",
@@ -1050,9 +1050,9 @@ export const gridPatterns: Pattern[] = [
    linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px),
    radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)
  `,
-      backgroundSize: "40px 40px, 40px 40px, 100% 100%",
+      backgroundSize: "20px 20px, 20px 20px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md" style={{ background: "white", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.15) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px), radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)', backgroundSize: "40px 40px, 40px 40px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md" style={{ background: "white", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.15) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px), radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)', backgroundSize: "20px 20px, 20px 20px, 100% 100%" }}>Button</button>`,
   },
   // Dark versions of the patterns
   {
@@ -1067,9 +1067,9 @@ export const gridPatterns: Pattern[] = [
         linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px),
         radial-gradient(circle at 50% 50%, rgba(139,92,246,0.15) 0%, transparent 70%)
       `,
-      backgroundSize: "32px 32px, 32px 32px, 100% 100%",
+      backgroundSize: "16px 16px, 16px 16px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.3) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px), radial-gradient(circle at 50% 50%, rgba(139,92,246,0.15) 0%, transparent 70%)', backgroundSize: "32px 32px, 32px 32px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.3) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px), radial-gradient(circle at 50% 50%, rgba(139,92,246,0.15) 0%, transparent 70%)', backgroundSize: "16px 16px, 16px 16px, 100% 100%" }}>Button</button>`,
   },
 
   {
@@ -1084,9 +1084,9 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px),
       radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)
     `,
-      backgroundSize: "40px 40px, 40px 40px, 100% 100%",
+      backgroundSize: "20px 20px, 20px 20px, 100% 100%",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.15) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px), radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)', backgroundSize: "40px 40px, 40px 40px, 100% 100%" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(71,85,105,0.15) 1px, transparent 1px), linear-gradient(to bottom, rgba(71,85,105,0.15) 1px, transparent 1px), radial-gradient(circle at 50% 60%, rgba(236,72,153,0.15) 0%, rgba(168,85,247,0.05) 40%, transparent 70%)', backgroundSize: "20px 20px, 20px 20px, 100% 100%" }}>Button</button>`,
   },
   {
     id: "dark-basic-grid-slate",
@@ -1098,9 +1098,9 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, rgba(100,116,139,0.4) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(100,116,139,0.4) 1px, transparent 1px)
     `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(100,116,139,0.4) 1px, transparent 1px), linear-gradient(to bottom, rgba(100,116,139,0.4) 1px, transparent 1px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#020617", backgroundImage: 'linear-gradient(to right, rgba(100,116,139,0.4) 1px, transparent 1px), linear-gradient(to bottom, rgba(100,116,139,0.4) 1px, transparent 1px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "dark-basic-grid-faded",
@@ -1112,9 +1112,9 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, rgba(148,163,184,0.2) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(148,163,184,0.2) 1px, transparent 1px)
     `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'linear-gradient(to right, rgba(148,163,184,0.2) 1px, transparent 1px), linear-gradient(to bottom, rgba(148,163,184,0.2) 1px, transparent 1px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'linear-gradient(to right, rgba(148,163,184,0.2) 1px, transparent 1px), linear-gradient(to bottom, rgba(148,163,184,0.2) 1px, transparent 1px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "black-basic-grid",
@@ -1127,9 +1127,9 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, rgba(75, 85, 99, 0.4) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(75, 85, 99, 0.4) 1px, transparent 1px)
     `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'linear-gradient(to right, rgba(75, 85, 99, 0.4) 1px, transparent 1px), linear-gradient(to bottom, rgba(75, 85, 99, 0.4) 1px, transparent 1px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'linear-gradient(to right, rgba(75, 85, 99, 0.4) 1px, transparent 1px), linear-gradient(to bottom, rgba(75, 85, 99, 0.4) 1px, transparent 1px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "small-grid",
@@ -1142,9 +1142,9 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to right, #262626 1px, transparent 1px),
       linear-gradient(to bottom, #262626 1px, transparent 1px)
     `,
-      backgroundSize: "20px 20px",
+      backgroundSize: "10px 10px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px)', backgroundSize: "20px 20px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'linear-gradient(to right, #262626 1px, transparent 1px), linear-gradient(to bottom, #262626 1px, transparent 1px)', backgroundSize: "10px 10px" }}>Button</button>`,
   },
   {
     id: "black-grid-white-dots",
@@ -1158,10 +1158,10 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px),
       radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)
     `,
-      backgroundSize: "20px 20px, 20px 20px, 20px 20px",
+      backgroundSize: "10px 10px, 10px 10px, 10px 10px",
       backgroundPosition: "0 0, 0 0, 0 0",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'linear-gradient(to right, rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)', backgroundSize: "20px 20px, 20px 20px, 20px 20px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'linear-gradient(to right, rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)', backgroundSize: "10px 10px, 10px 10px, 10px 10px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
   },
   {
     id: "dark-grid-white-dots",
@@ -1175,10 +1175,10 @@ export const gridPatterns: Pattern[] = [
       linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px),
       radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)
     `,
-      backgroundSize: "20px 20px, 20px 20px, 20px 20px",
+      backgroundSize: "10px 10px, 10px 10px, 10px 10px",
       backgroundPosition: "0 0, 0 0, 0 0",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'linear-gradient(to right, rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)', backgroundSize: "20px 20px, 20px 20px, 20px 20px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'linear-gradient(to right, rgba(255,255,255,0.06) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.06) 1px, transparent 1px), radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)', backgroundSize: "10px 10px, 10px 10px, 10px 10px", backgroundPosition: "0 0, 0 0, 0 0" }}>Button</button>`,
   },
 
   {
@@ -1192,10 +1192,10 @@ export const gridPatterns: Pattern[] = [
         radial-gradient(circle, rgba(59,130,246,0.4) 1px, transparent 1px),
         radial-gradient(circle, rgba(236,72,153,0.5) 1px, transparent 1px)
       `,
-      backgroundSize: "20px 20px, 40px 40px, 60px 60px",
-      backgroundPosition: "0 0, 10px 10px, 30px 30px",
+      backgroundSize: "10px 10px, 20px 20px, 30px 30px",
+      backgroundPosition: "0 0, 5px 5px, 15px 15px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'radial-gradient(circle, rgba(139,92,246,0.6) 1px, transparent 1px), radial-gradient(circle, rgba(59,130,246,0.4) 1px, transparent 1px), radial-gradient(circle, rgba(236,72,153,0.5) 1px, transparent 1px)', backgroundSize: "20px 20px, 40px 40px, 60px 60px", backgroundPosition: "0 0, 10px 10px, 30px 30px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f172a", backgroundImage: 'radial-gradient(circle, rgba(139,92,246,0.6) 1px, transparent 1px), radial-gradient(circle, rgba(59,130,246,0.4) 1px, transparent 1px), radial-gradient(circle, rgba(236,72,153,0.5) 1px, transparent 1px)', backgroundSize: "10px 10px, 20px 20px, 30px 30px", backgroundPosition: "0 0, 5px 5px, 15px 15px" }}>Button</button>`,
   },
   {
     id: "dark-white-dotted-grid",
@@ -1204,12 +1204,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `
-      radial-gradient(circle, rgba(255, 255, 255, 0.2) 1.5px, transparent 1.5px)
+      radial-gradient(circle, rgba(255, 255, 255, 0.2) 1px, transparent 1px)
     `,
-      backgroundSize: "30px 30px",
+      backgroundSize: "15px 15px",
       backgroundPosition: "0 0",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(circle, rgba(255, 255, 255, 0.2) 1.5px, transparent 1.5px)', backgroundSize: "30px 30px", backgroundPosition: "0 0" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(circle, rgba(255, 255, 255, 0.2) 1px, transparent 1px)', backgroundSize: "15px 15px", backgroundPosition: "0 0" }}>Button</button>`,
   },
 
   {
@@ -1224,10 +1224,10 @@ export const gridPatterns: Pattern[] = [
       radial-gradient(circle at 1px 1px, rgba(59, 130, 246, 0.18) 1px, transparent 0),
       radial-gradient(circle at 1px 1px, rgba(236, 72, 153, 0.15) 1px, transparent 0)
     `,
-      backgroundSize: "20px 20px, 30px 30px, 25px 25px",
-      backgroundPosition: "0 0, 10px 10px, 15px 5px",
+      backgroundSize: "10px 10px, 15px 15px, 12px 12px",
+      backgroundPosition: "0 0, 5px 5px, 8px 3px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(139, 92, 246, 0.2) 1px, transparent 0), radial-gradient(circle at 1px 1px, rgba(59, 130, 246, 0.18) 1px, transparent 0), radial-gradient(circle at 1px 1px, rgba(236, 72, 153, 0.15) 1px, transparent 0)', backgroundSize: "20px 20px, 30px 30px, 25px 25px", backgroundPosition: "0 0, 10px 10px, 15px 5px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(139, 92, 246, 0.2) 1px, transparent 0), radial-gradient(circle at 1px 1px, rgba(59, 130, 246, 0.18) 1px, transparent 0), radial-gradient(circle at 1px 1px, rgba(236, 72, 153, 0.15) 1px, transparent 0)', backgroundSize: "10px 10px, 15px 15px, 12px 12px", backgroundPosition: "0 0, 5px 5px, 8px 3px" }}>Button</button>`,
   },
   {
     id: "matrix-green",
@@ -1237,13 +1237,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#000000",
       backgroundImage: `
-       repeating-linear-gradient(45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 12px),
-        repeating-linear-gradient(-45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 12px),
-        repeating-linear-gradient(90deg, rgba(0, 255, 65, 0.03) 0, rgba(0, 255, 65, 0.03) 1px, transparent 1px, transparent 4px)
+       repeating-linear-gradient(45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 6px),
+        repeating-linear-gradient(-45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 6px),
+        repeating-linear-gradient(90deg, rgba(0, 255, 65, 0.03) 0, rgba(0, 255, 65, 0.03) 1px, transparent 1px, transparent 2px)
     `,
-      backgroundSize: "24px 24px, 24px 24px, 8px 8px",
+      backgroundSize: "12px 12px, 12px 12px, 4px 4px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 12px), repeating-linear-gradient(-45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 12px), repeating-linear-gradient(90deg, rgba(0, 255, 65, 0.03) 0, rgba(0, 255, 65, 0.03) 1px, transparent 1px, transparent 4px)', backgroundSize: "24px 24px, 24px 24px, 8px 8px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#000000", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 6px), repeating-linear-gradient(-45deg, rgba(0, 255, 65, 0.08) 0, rgba(0, 255, 65, 0.08) 1px, transparent 1px, transparent 6px), repeating-linear-gradient(90deg, rgba(0, 255, 65, 0.03) 0, rgba(0, 255, 65, 0.03) 1px, transparent 1px, transparent 2px)', backgroundSize: "12px 12px, 12px 12px, 4px 4px" }}>Button</button>`,
   },
   {
     id: "diagonal-green-glow",
@@ -1253,12 +1253,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-        repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px),
-        repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px)
+        repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px),
+        repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px)
       `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "diagonal-red/blue-glow",
@@ -1268,12 +1268,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 20px),
-      repeating-linear-gradient(-45deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 20px)
+      repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 10px),
+      repeating-linear-gradient(-45deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 10px)
     `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 20px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 10px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
   {
     id: "diagonal-electric erange",
@@ -1283,12 +1283,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-     repeating-linear-gradient(45deg, rgba(255, 140, 0, 0.12) 0, rgba(255, 140, 0, 0.12) 1px, transparent 1px, transparent 22px),
-        repeating-linear-gradient(-45deg, rgba(255, 69, 0, 0.08) 0, rgba(255, 69, 0, 0.08) 1px, transparent 1px, transparent 22px)
+     repeating-linear-gradient(45deg, rgba(255, 140, 0, 0.12) 0, rgba(255, 140, 0, 0.12) 1px, transparent 1px, transparent 11px),
+        repeating-linear-gradient(-45deg, rgba(255, 69, 0, 0.08) 0, rgba(255, 69, 0, 0.08) 1px, transparent 1px, transparent 11px)
     `,
-      backgroundSize: "44px 44px",
+      backgroundSize: "22px 22px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 140, 0, 0.12) 0, rgba(255, 140, 0, 0.12) 1px, transparent 1px, transparent 22px), repeating-linear-gradient(-45deg, rgba(255, 69, 0, 0.08) 0, rgba(255, 69, 0, 0.08) 1px, transparent 1px, transparent 22px)', backgroundSize: "44px 44px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 140, 0, 0.12) 0, rgba(255, 140, 0, 0.12) 1px, transparent 1px, transparent 11px), repeating-linear-gradient(-45deg, rgba(255, 69, 0, 0.08) 0, rgba(255, 69, 0, 0.08) 1px, transparent 1px, transparent 11px)', backgroundSize: "22px 22px" }}>Button</button>`,
   },
   {
     id: "complex-multiplier",
@@ -1298,16 +1298,16 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#101014",
       backgroundImage: `
-      repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 40px),
-      repeating-linear-gradient(45deg, rgba(0,255,128,0.09) 0, rgba(0,255,128,0.09) 1px, transparent 1px, transparent 20px),
-     repeating-linear-gradient(-45deg, rgba(255,0,128,0.10) 0, rgba(255,0,128,0.10) 1px, transparent 1px, transparent 30px),
-      repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 80px),
+      repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 20px),
+      repeating-linear-gradient(45deg, rgba(0,255,128,0.09) 0, rgba(0,255,128,0.09) 1px, transparent 1px, transparent 10px),
+     repeating-linear-gradient(-45deg, rgba(255,0,128,0.10) 0, rgba(255,0,128,0.10) 1px, transparent 1px, transparent 15px),
+      repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 40px),
       radial-gradient(circle at 60% 40%, rgba(0,255,128,0.05) 0, transparent 60%)
     `,
-      backgroundSize: "80px 80px, 40px 40px, 60px 60px, 80px 80px, 100% 100%",
-      backgroundPosition: "0 0, 0 0, 0 0, 40px 40px, center",
+      backgroundSize: "40px 40px, 20px 20px, 30px 30px, 40px 40px, 100% 100%",
+      backgroundPosition: "0 0, 0 0, 0 0, 20px 20px, center",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#101014", backgroundImage: 'repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 40px), repeating-linear-gradient(45deg, rgba(0,255,128,0.09) 0, rgba(0,255,128,0.09) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(255,0,128,0.10) 0, rgba(255,0,128,0.10) 1px, transparent 1px, transparent 30px), repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 80px), radial-gradient(circle at 60% 40%, rgba(0,255,128,0.05) 0, transparent 60%)', backgroundSize: "80px 80px, 40px 40px, 60px 60px, 80px 80px, 100% 100%", backgroundPosition: "0 0, 0 0, 0 0, 40px 40px, center" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#101014", backgroundImage: 'repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(45deg, rgba(0,255,128,0.09) 0, rgba(0,255,128,0.09) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(255,0,128,0.10) 0, rgba(255,0,128,0.10) 1px, transparent 1px, transparent 15px), repeating-linear-gradient(90deg, rgba(255,255,255,0.03) 0, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 40px), radial-gradient(circle at 60% 40%, rgba(0,255,128,0.05) 0, transparent 60%)', backgroundSize: "40px 40px, 20px 20px, 30px 30px, 40px 40px, 100% 100%", backgroundPosition: "0 0, 0 0, 0 0, 20px 20px, center" }}>Button</button>`,
   },
   {
     id: "hexagonal-lines",
@@ -1317,13 +1317,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(60deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 22px),
-      repeating-linear-gradient(-60deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 22px),
-      repeating-linear-gradient(0deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 22px)
+      repeating-linear-gradient(60deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 11px),
+      repeating-linear-gradient(-60deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 11px),
+      repeating-linear-gradient(0deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 11px)
     `,
-      backgroundSize: "44px 44px",
+      backgroundSize: "22px 22px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(60deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 22px), repeating-linear-gradient(-60deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 22px), repeating-linear-gradient(0deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 22px)', backgroundSize: "44px 44px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(60deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 11px), repeating-linear-gradient(-60deg, rgba(0, 255, 200, 0.15) 0, rgba(0, 255, 200, 0.15) 1px, transparent 1px, transparent 11px), repeating-linear-gradient(0deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 11px)', backgroundSize: "22px 22px" }}>Button</button>`,
   },
   {
     id: "diagonal-synthwave",
@@ -1333,12 +1333,12 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0a0a0a",
       backgroundImage: `
-          repeating-linear-gradient(45deg, rgba(255, 20, 147, 0.15) 0, rgba(255, 20, 147, 0.15) 2px, transparent 2px, transparent 30px),
-        repeating-linear-gradient(-45deg, rgba(0, 255, 255, 0.1) 0, rgba(0, 255, 255, 0.1) 1px, transparent 1px, transparent 25px)
+          repeating-linear-gradient(45deg, rgba(255, 20, 147, 0.15) 0, rgba(255, 20, 147, 0.15) 1px, transparent 1px, transparent 15px),
+        repeating-linear-gradient(-45deg, rgba(0, 255, 255, 0.1) 0, rgba(0, 255, 255, 0.1) 1px, transparent 1px, transparent 12px)
       `,
-      backgroundSize: "40px 40px",
+      backgroundSize: "20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0a0a0a", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 20, 147, 0.15) 0, rgba(255, 20, 147, 0.15) 2px, transparent 2px, transparent 30px), repeating-linear-gradient(-45deg, rgba(0, 255, 255, 0.1) 0, rgba(0, 255, 255, 0.1) 1px, transparent 1px, transparent 25px)', backgroundSize: "40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0a0a0a", backgroundImage: 'repeating-linear-gradient(45deg, rgba(255, 20, 147, 0.15) 0, rgba(255, 20, 147, 0.15) 1px, transparent 1px, transparent 15px), repeating-linear-gradient(-45deg, rgba(0, 255, 255, 0.1) 0, rgba(0, 255, 255, 0.1) 1px, transparent 1px, transparent 12px)', backgroundSize: "20px 20px" }}>Button</button>`,
   },
 
   {
@@ -1351,13 +1351,13 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       repeating-linear-gradient(45deg, 
         rgba(0, 255, 128, 0.2) 0px, 
-        rgba(0, 255, 128, 0) 2px, 
-        transparent 2px, 
-        transparent 25px
+        rgba(0, 255, 128, 0) 1px, 
+        transparent 1px, 
+        transparent 12px
       )
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0px, rgba(0, 255, 128, 0) 2px, transparent 2px, transparent 25px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0px, rgba(0, 255, 128, 0) 1px, transparent 1px, transparent 12px)' }}>Button</button>`,
   },
   {
     id: "gradient-right-diagonal-lines",
@@ -1369,13 +1369,13 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       repeating-linear-gradient(-45deg, 
         rgba(255, 0, 100, 0.2) 0px, 
-        rgba(255, 0, 100, 0) 2px, 
-        transparent 2px, 
-        transparent 25px
+        rgba(255, 0, 100, 0) 1px, 
+        transparent 1px, 
+        transparent 12px
       )
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0px, rgba(255, 0, 100, 0) 2px, transparent 2px, transparent 25px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0px, rgba(255, 0, 100, 0) 1px, transparent 1px, transparent 12px)' }}>Button</button>`,
   },
   {
     id: "cross-diagonal-lines",
@@ -1385,11 +1385,11 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px),
-        repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px)
+      repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px),
+        repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 20px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(-45deg, rgba(0, 255, 128, 0.1) 0, rgba(0, 255, 128, 0.1) 1px, transparent 1px, transparent 10px)' }}>Button</button>`,
   },
   {
     id: "multi-cross-diagonal-lines",
@@ -1399,11 +1399,11 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-       repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 20px),
-        repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0, rgba(0, 255, 128, 0.2) 1px, transparent 1px, transparent 20px)
+       repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 10px),
+        repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0, rgba(0, 255, 128, 0.2) 1px, transparent 1px, transparent 10px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0, rgba(0, 255, 128, 0.2) 1px, transparent 1px, transparent 20px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(-45deg, rgba(255, 0, 100, 0.2) 0, rgba(255, 0, 100, 0.2) 1px, transparent 1px, transparent 10px), repeating-linear-gradient(45deg, rgba(0, 255, 128, 0.2) 0, rgba(0, 255, 128, 0.2) 1px, transparent 1px, transparent 10px)' }}>Button</button>`,
   },
 
   {
@@ -1418,15 +1418,15 @@ export const gridPatterns: Pattern[] = [
         rgba(255, 100, 0, 0.1) 0, 
         rgba(255, 100, 0, 0.1) 1px, 
         transparent 1px, 
-        transparent 10px,
-        rgba(255, 100, 0, 0.15) 11px, 
-        rgba(255, 100, 0, 0.15) 12px, 
-        transparent 12px, 
-        transparent 40px
+        transparent 5px,
+        rgba(255, 100, 0, 0.15) 6px, 
+        rgba(255, 100, 0, 0.15) 7px, 
+        transparent 7px, 
+        transparent 20px
       )
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(30deg, rgba(255, 100, 0, 0.1) 0, rgba(255, 100, 0, 0.1) 1px, transparent 1px, transparent 10px, rgba(255, 100, 0, 0.15) 11px, rgba(255, 100, 0, 0.15) 12px, transparent 12px, transparent 40px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(30deg, rgba(255, 100, 0, 0.1) 0, rgba(255, 100, 0, 0.1) 1px, transparent 1px, transparent 5px, rgba(255, 100, 0, 0.15) 6px, rgba(255, 100, 0, 0.15) 7px, transparent 7px, transparent 20px)' }}>Button</button>`,
   },
 
   {
@@ -1439,20 +1439,20 @@ export const gridPatterns: Pattern[] = [
       backgroundImage: `
       repeating-linear-gradient(0deg, 
         rgba(0, 255, 0, 0.12) 0, rgba(0, 255, 0, 0.12) 1px, 
-        transparent 1px, transparent 40px
+        transparent 1px, transparent 20px
       ),
       repeating-linear-gradient(90deg, 
         rgba(0, 255, 0, 0.08) 0, rgba(0, 255, 0, 0.08) 1px, 
-        transparent 1px, transparent 80px
+        transparent 1px, transparent 40px
       ),
       repeating-linear-gradient(45deg, 
         rgba(255, 100, 0, 0.10) 0, rgba(255, 100, 0, 0.10) 1px, 
-        transparent 1px, transparent 160px
+        transparent 1px, transparent 80px
       )
     `,
-      backgroundSize: "80px 80px, 160px 160px, 320px 320px",
+      backgroundSize: "40px 40px, 80px 80px, 160px 160px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, rgba(0, 255, 0, 0.12) 0, rgba(0, 255, 0, 0.12) 1px, transparent 1px, transparent 40px), repeating-linear-gradient(90deg, rgba(0, 255, 0, 0.08) 0, rgba(0, 255, 0, 0.08) 1px, transparent 1px, transparent 80px), repeating-linear-gradient(45deg, rgba(255, 100, 0, 0.10) 0, rgba(255, 100, 0, 0.10) 1px, transparent 1px, transparent 160px)', backgroundSize: "80px 80px, 160px 160px, 320px 320px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, rgba(0, 255, 0, 0.12) 0, rgba(0, 255, 0, 0.12) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(90deg, rgba(0, 255, 0, 0.08) 0, rgba(0, 255, 0, 0.08) 1px, transparent 1px, transparent 40px), repeating-linear-gradient(45deg, rgba(255, 100, 0, 0.10) 0, rgba(255, 100, 0, 0.10) 1px, transparent 1px, transparent 80px)', backgroundSize: "40px 40px, 80px 80px, 160px 160px" }}>Button</button>`,
   },
   {
     id: "zigzag-lightning-dark",
@@ -1462,13 +1462,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(34, 197, 94, 0.12) 20px, rgba(34, 197, 94, 0.12) 21px),
-      repeating-linear-gradient(90deg, transparent, transparent 30px, rgba(16, 185, 129, 0.10) 30px, rgba(16, 185, 129, 0.10) 31px),
-      repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(59, 130, 246, 0.08) 40px, rgba(59, 130, 246, 0.08) 41px),
-      repeating-linear-gradient(150deg, transparent, transparent 35px, rgba(147, 51, 234, 0.06) 35px, rgba(147, 51, 234, 0.06) 36px)
+      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(34, 197, 94, 0.12) 10px, rgba(34, 197, 94, 0.12) 11px),
+      repeating-linear-gradient(90deg, transparent, transparent 15px, rgba(16, 185, 129, 0.10) 15px, rgba(16, 185, 129, 0.10) 16px),
+      repeating-linear-gradient(60deg, transparent, transparent 20px, rgba(59, 130, 246, 0.08) 20px, rgba(59, 130, 246, 0.08) 21px),
+      repeating-linear-gradient(150deg, transparent, transparent 18px, rgba(147, 51, 234, 0.06) 18px, rgba(147, 51, 234, 0.06) 19px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(34, 197, 94, 0.12) 20px, rgba(34, 197, 94, 0.12) 21px), repeating-linear-gradient(90deg, transparent, transparent 30px, rgba(16, 185, 129, 0.10) 30px, rgba(16, 185, 129, 0.10) 31px), repeating-linear-gradient(60deg, transparent, transparent 40px, rgba(59, 130, 246, 0.08) 40px, rgba(59, 130, 246, 0.08) 41px), repeating-linear-gradient(150deg, transparent, transparent 35px, rgba(147, 51, 234, 0.06) 35px, rgba(147, 51, 234, 0.06) 36px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(34, 197, 94, 0.12) 10px, rgba(34, 197, 94, 0.12) 11px), repeating-linear-gradient(90deg, transparent, transparent 15px, rgba(16, 185, 129, 0.10) 15px, rgba(16, 185, 129, 0.10) 16px), repeating-linear-gradient(60deg, transparent, transparent 20px, rgba(59, 130, 246, 0.08) 20px, rgba(59, 130, 246, 0.08) 21px), repeating-linear-gradient(150deg, transparent, transparent 18px, rgba(147, 51, 234, 0.06) 18px, rgba(147, 51, 234, 0.06) 19px)' }}>Button</button>`,
   },
   {
     id: "circuit-board-dark",
@@ -1478,14 +1478,14 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(34, 197, 94, 0.15) 19px, rgba(34, 197, 94, 0.15) 20px, transparent 20px, transparent 39px, rgba(34, 197, 94, 0.15) 39px, rgba(34, 197, 94, 0.15) 40px),
-      repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(34, 197, 94, 0.15) 19px, rgba(34, 197, 94, 0.15) 20px, transparent 20px, transparent 39px, rgba(34, 197, 94, 0.15) 39px, rgba(34, 197, 94, 0.15) 40px),
-      radial-gradient(circle at 20px 20px, rgba(16, 185, 129, 0.18) 2px, transparent 2px),
-      radial-gradient(circle at 40px 40px, rgba(16, 185, 129, 0.18) 2px, transparent 2px)
+      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(34, 197, 94, 0.15) 10px, rgba(34, 197, 94, 0.15) 11px, transparent 11px, transparent 20px, rgba(34, 197, 94, 0.15) 20px, rgba(34, 197, 94, 0.15) 21px),
+      repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(34, 197, 94, 0.15) 10px, rgba(34, 197, 94, 0.15) 11px, transparent 11px, transparent 20px, rgba(34, 197, 94, 0.15) 20px, rgba(34, 197, 94, 0.15) 21px),
+      radial-gradient(circle at 10px 10px, rgba(16, 185, 129, 0.18) 1px, transparent 1px),
+      radial-gradient(circle at 20px 20px, rgba(16, 185, 129, 0.18) 1px, transparent 1px)
     `,
-      backgroundSize: "40px 40px, 40px 40px, 40px 40px, 40px 40px",
+      backgroundSize: "20px 20px, 20px 20px, 20px 20px, 20px 20px",
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(34, 197, 94, 0.15) 19px, rgba(34, 197, 94, 0.15) 20px, transparent 20px, transparent 39px, rgba(34, 197, 94, 0.15) 39px, rgba(34, 197, 94, 0.15) 40px), repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(34, 197, 94, 0.15) 19px, rgba(34, 197, 94, 0.15) 20px, transparent 20px, transparent 39px, rgba(34, 197, 94, 0.15) 39px, rgba(34, 197, 94, 0.15) 40px), radial-gradient(circle at 20px 20px, rgba(16, 185, 129, 0.18) 2px, transparent 2px), radial-gradient(circle at 40px 40px, rgba(16, 185, 129, 0.18) 2px, transparent 2px)', backgroundSize: "40px 40px, 40px 40px, 40px 40px, 40px 40px" }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(34, 197, 94, 0.15) 10px, rgba(34, 197, 94, 0.15) 11px, transparent 11px, transparent 20px, rgba(34, 197, 94, 0.15) 20px, rgba(34, 197, 94, 0.15) 21px), repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(34, 197, 94, 0.15) 10px, rgba(34, 197, 94, 0.15) 11px, transparent 11px, transparent 20px, rgba(34, 197, 94, 0.15) 20px, rgba(34, 197, 94, 0.15) 21px), radial-gradient(circle at 10px 10px, rgba(16, 185, 129, 0.18) 1px, transparent 1px), radial-gradient(circle at 20px 20px, rgba(16, 185, 129, 0.18) 1px, transparent 1px)', backgroundSize: "20px 20px, 20px 20px, 20px 20px, 20px 20px" }}>Button</button>`,
   },
   {
     id: "concentric-squares-dark",
@@ -1495,13 +1495,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(99, 102, 241, 0.15) 5px, rgba(99, 102, 241, 0.15) 6px, transparent 6px, transparent 15px),
-      repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(99, 102, 241, 0.15) 5px, rgba(99, 102, 241, 0.15) 6px, transparent 6px, transparent 15px),
-      repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(139, 92, 246, 0.12) 10px, rgba(139, 92, 246, 0.12) 11px, transparent 11px, transparent 30px),
-      repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(139, 92, 246, 0.12) 10px, rgba(139, 92, 246, 0.12) 11px, transparent 11px, transparent 30px)
+      repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(99, 102, 241, 0.15) 3px, rgba(99, 102, 241, 0.15) 4px, transparent 4px, transparent 8px),
+      repeating-linear-gradient(90deg, transparent, transparent 3px, rgba(99, 102, 241, 0.15) 3px, rgba(99, 102, 241, 0.15) 4px, transparent 4px, transparent 8px),
+      repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(139, 92, 246, 0.12) 5px, rgba(139, 92, 246, 0.12) 6px, transparent 6px, transparent 15px),
+      repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(139, 92, 246, 0.12) 5px, rgba(139, 92, 246, 0.12) 6px, transparent 6px, transparent 15px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(99, 102, 241, 0.15) 5px, rgba(99, 102, 241, 0.15) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(99, 102, 241, 0.15) 5px, rgba(99, 102, 241, 0.15) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(139, 92, 246, 0.12) 10px, rgba(139, 92, 246, 0.12) 11px, transparent 11px, transparent 30px), repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(139, 92, 246, 0.12) 10px, rgba(139, 92, 246, 0.12) 11px, transparent 11px, transparent 30px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(99, 102, 241, 0.15) 3px, rgba(99, 102, 241, 0.15) 4px, transparent 4px, transparent 8px), repeating-linear-gradient(90deg, transparent, transparent 3px, rgba(99, 102, 241, 0.15) 3px, rgba(99, 102, 241, 0.15) 4px, transparent 4px, transparent 8px), repeating-linear-gradient(0deg, transparent, transparent 5px, rgba(139, 92, 246, 0.12) 5px, rgba(139, 92, 246, 0.12) 6px, transparent 6px, transparent 15px), repeating-linear-gradient(90deg, transparent, transparent 5px, rgba(139, 92, 246, 0.12) 5px, rgba(139, 92, 246, 0.12) 6px, transparent 6px, transparent 15px)' }}>Button</button>`,
   },
   {
     id: "crosshatch-art-dark",
@@ -1511,13 +1511,13 @@ export const gridPatterns: Pattern[] = [
     style: {
       background: "#0f0f0f",
       backgroundImage: `
-      repeating-linear-gradient(22.5deg, transparent, transparent 2px, rgba(16, 185, 129, 0.18) 2px, rgba(16, 185, 129, 0.18) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(67.5deg, transparent, transparent 2px, rgba(245, 101, 101, 0.10) 2px, rgba(245, 101, 101, 0.10) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(112.5deg, transparent, transparent 2px, rgba(234, 179, 8, 0.08) 2px, rgba(234, 179, 8, 0.08) 3px, transparent 3px, transparent 8px),
-      repeating-linear-gradient(157.5deg, transparent, transparent 2px, rgba(249, 115, 22, 0.06) 2px, rgba(249, 115, 22, 0.06) 3px, transparent 3px, transparent 8px)
+      repeating-linear-gradient(22.5deg, transparent, transparent 1px, rgba(16, 185, 129, 0.18) 1px, rgba(16, 185, 129, 0.18) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(67.5deg, transparent, transparent 1px, rgba(245, 101, 101, 0.10) 1px, rgba(245, 101, 101, 0.10) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(112.5deg, transparent, transparent 1px, rgba(234, 179, 8, 0.08) 1px, rgba(234, 179, 8, 0.08) 2px, transparent 2px, transparent 4px),
+      repeating-linear-gradient(157.5deg, transparent, transparent 1px, rgba(249, 115, 22, 0.06) 1px, rgba(249, 115, 22, 0.06) 2px, transparent 2px, transparent 4px)
     `,
     },
-    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(22.5deg, transparent, transparent 2px, rgba(16, 185, 129, 0.18) 2px, rgba(16, 185, 129, 0.18) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(67.5deg, transparent, transparent 2px, rgba(245, 101, 101, 0.10) 2px, rgba(245, 101, 101, 0.10) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(112.5deg, transparent, transparent 2px, rgba(234, 179, 8, 0.08) 2px, rgba(234, 179, 8, 0.08) 3px, transparent 3px, transparent 8px), repeating-linear-gradient(157.5deg, transparent, transparent 2px, rgba(249, 115, 22, 0.06) 2px, rgba(249, 115, 22, 0.06) 3px, transparent 3px, transparent 8px)' }}>Button</button>`,
+    code: `<button className="px-6 py-2 rounded-md text-white" style={{ background: "#0f0f0f", backgroundImage: 'repeating-linear-gradient(22.5deg, transparent, transparent 1px, rgba(16, 185, 129, 0.18) 1px, rgba(16, 185, 129, 0.18) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(67.5deg, transparent, transparent 1px, rgba(245, 101, 101, 0.10) 1px, rgba(245, 101, 101, 0.10) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(112.5deg, transparent, transparent 1px, rgba(234, 179, 8, 0.08) 1px, rgba(234, 179, 8, 0.08) 2px, transparent 2px, transparent 4px), repeating-linear-gradient(157.5deg, transparent, transparent 1px, rgba(249, 115, 22, 0.06) 1px, rgba(249, 115, 22, 0.06) 2px, transparent 2px, transparent 4px)' }}>Button</button>`,
   },
 
   // New Ellipse Glow Pattern
