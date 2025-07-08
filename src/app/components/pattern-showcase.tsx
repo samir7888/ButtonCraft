@@ -76,7 +76,7 @@ export default function PatternShowcase({
               isPatternDark ? "text-gray-300" : "text-muted-foreground"
             }`}
           >
-            Tap on mobile or hover on desktop to see options
+            Tap or Click to copy the code
           </p>
         </div>
       </div>
@@ -207,7 +207,11 @@ export default function PatternShowcase({
               {filteredPatterns.map((pattern) => (
                 <div key={pattern.id} className="group relative">
                   <div
-                    className={`relative aspect-square rounded-xl sm:rounded-2xl overflow-hidden bg-background shadow-sm transition-all duration-300 ${
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      copyToClipboard(pattern.code, pattern.id);
+                    }}
+                    className={`cursor-pointer relative aspect-square h-12 w-3/4 rounded-xl sm:rounded-2xl overflow-hidden bg-background shadow-sm transition-all duration-300 ${
                       activePattern === pattern.id
                         ? "ring-2 ring-primary ring-offset-2"
                         : ""
@@ -216,7 +220,7 @@ export default function PatternShowcase({
                         ? "scale-[1.02] shadow-lg sm:scale-100"
                         : "hover:shadow-lg hover:scale-[1.02]"
                     }`}
-                    onClick={() => handleCardInteraction(pattern.id)}
+                    // onClick={() => handleCardInteraction(pattern.id)}
                   >
                     {/* Pattern style */}
                     <div className="absolute inset-0" style={pattern.style} />
@@ -233,71 +237,6 @@ export default function PatternShowcase({
                         </Badge>
                       </div>
                     )}
-
-                    {/* Mobile: Simple preview and copy buttons */}
-                    <div className="sm:hidden absolute bottom-2 left-2 right-2 z-10 flex justify-center gap-2 px-2">
-                      <Button
-                        size="sm"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          copyToClipboard(pattern.code, pattern.id);
-                        }}
-                        className={`flex-1 border-0 text-xs h-8 ${
-                          copiedId === pattern.id
-                            ? "bg-gray-700 hover:bg-gray-800 text-white"
-                            : "bg-gray-900/90 hover:bg-gray-900 text-white"
-                        }`}
-                        disabled={copiedId === pattern.id}
-                      >
-                        {copiedId === pattern.id ? (
-                          <>
-                            <Check className="h-3 w-3 mr-1" />
-                            Copied
-                          </>
-                        ) : (
-                          <>
-                            <Copy className="h-3 w-3 mr-1" />
-                            Copy
-                          </>
-                        )}
-                      </Button>
-                    </div>
-
-                    {/* Desktop: Hover overlay */}
-                    <div className="hidden sm:flex absolute inset-0 cursor-pointer bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 items-center justify-center p-4">
-                      <div className="text-center transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
-                        <h3 className="text-white font-semibold text-sm sm:text-base lg:text-lg mb-4 drop-shadow-lg">
-                          {pattern.name}
-                        </h3>
-                        <div className="flex flex-col xs:flex-row gap-2 sm:gap-3 w-full xs:w-auto">
-                          <Button
-                            size="sm"
-                            onClick={(e) => {
-                              e.stopPropagation();
-                              copyToClipboard(pattern.code, pattern.id);
-                            }}
-                            className={`cursor-pointer shadow-xl backdrop-blur-md gap-1 border-0 transition-all duration-200 hover:scale-105 text-xs sm:text-sm px-3 py-2 h-auto w-full xs:w-auto ${
-                              copiedId === pattern.id
-                                ? "bg-gray-700 hover:bg-gray-800 text-white border border-gray-500"
-                                : "bg-gray-900/90 hover:bg-gray-900 text-white"
-                            }`}
-                            disabled={copiedId === pattern.id}
-                          >
-                            {copiedId === pattern.id ? (
-                              <>
-                                <Check className="h-3 w-3" />
-                                Copied
-                              </>
-                            ) : (
-                              <>
-                                <Copy className="h-3 w-3" />
-                                Copy
-                              </>
-                            )}
-                          </Button>
-                        </div>
-                      </div>
-                    </div>
                   </div>
                 </div>
               ))}
