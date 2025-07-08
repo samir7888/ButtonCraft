@@ -211,7 +211,7 @@ export default function PatternShowcase({
                       e.stopPropagation();
                       copyToClipboard(pattern.code, pattern.id);
                     }}
-                    className={`cursor-pointer relative aspect-square h-12 w-3/4 rounded-xl sm:rounded-2xl overflow-hidden bg-background shadow-sm transition-all duration-300 ${
+                    className={`cursor-pointer relative aspect-square h-12 w-3/4 mx-auto rounded-xl sm:rounded-2xl overflow-hidden bg-background shadow-sm transition-all duration-300 ${
                       activePattern === pattern.id
                         ? "ring-2 ring-primary ring-offset-2"
                         : ""
