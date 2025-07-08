@@ -25,7 +25,7 @@ export default function Hero({ theme }: HeroProps) {
         {/* Badge */}
         <div className="mb-6 sm:mb-8 md:mb-10 flex justify-center">
           <a
-            href="https://github.com/megh-bari/pattern-craft"
+            href="https://github.com/samir7888/ButtonCraft"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex"
