@@ -43,11 +43,11 @@ export default function Hero({ theme }: HeroProps) {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
               </div>
               <span className="font-medium">5+ New Patterns</span>
-              <Zap className="h-3 w-3 text-orange-500" />
+              <Zap className="size-3 text-orange-500" />
               <span className="hidden sm:inline-flex items-center">
                 Read More
               </span>
-              <ArrowRight className="h-3 w-3" />
+              <ArrowRight className="size-3" />
             </Badge>
           </a>
         </div>
